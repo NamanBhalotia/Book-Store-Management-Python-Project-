@@ -1,0 +1,7 @@
+use add_new_book to make a new database of books using sqlite3
+
+use find_book to look for the book in the database.
+
+
+Here I have used sqlite3 and created a database which I access using python.
+
